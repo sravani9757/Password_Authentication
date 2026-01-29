@@ -38,6 +38,7 @@ Password_Authentication/
 
 How to Run the Project
 Step 1: Clone the repository
+
 git clone https://github.com/your-username/Password_Authentication.git
 
 Step 2: Open in IDE
@@ -45,9 +46,11 @@ Step 2: Open in IDE
 Open the project in Android Studio / IntelliJ / VS Code.
 
 Step 3: Build the project
+
 ./gradlew build
 
 Step 4: Run the application
+
 ./gradlew run
 
 How It Works
@@ -77,6 +80,7 @@ Demonstrating basic security in applications
 Author
 
 Name: Annapureddy Sravani
+
 Email: 2200031472cseh@gmail.com
 
 College: KL University
